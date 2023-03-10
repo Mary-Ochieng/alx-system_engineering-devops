@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
+pwd
+=======
 su betty
+>>>>>>> 202d33b418390316e737ee6278e486be1ea0214f
