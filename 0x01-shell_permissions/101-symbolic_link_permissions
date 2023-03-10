@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 #!/bin/bash
 chown -h vincent staff-hello
+=======
+
+#!/bin/bash
+chown -h vincent staff -hello
+>>>>>>> 202d33b418390316e737ee6278e486be1ea0214f
